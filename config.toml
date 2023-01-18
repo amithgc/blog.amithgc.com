@@ -1,12 +1,12 @@
 baseURL = "https://blog.amithgc.com"
 languageCode = "en-us"
-title = "Amith G Chandrappa"
+title = "Amith GC's Blog"
 theme = "digitalgarden"
 
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
-  description = "My Digital Garden on the Internet"
+  description = "Amith GC's Blog"
   images = ['/digital-garden-logo.png']
   enableSearch = true
 
@@ -24,20 +24,12 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = '/articles'
   weight = 3
 [[menu.main]]
-  name = 'Projects'
-  url = '/portfolio'
-  weight = 4
-[[menu.main]]
-  name = 'Stack'
-  url = '/stack'
-  weight = 5
-[[menu.main]]
   name = 'Links'
   params.header = true
   weight = 6
 [[menu.main]]
-  name = 'Polywork'
-  url = 'https://polywork.com'
+  name = 'Profile'
+  url = 'https://amithgc.com'
   weight = 7
 
 [[menu.social]]

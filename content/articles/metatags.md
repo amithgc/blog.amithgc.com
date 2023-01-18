@@ -1,6 +1,7 @@
 ---
 title: 7. Metatags
 date: 2021-12-18
+draft: true
 ---
 
 Metatags are used to provide additional information about the page, usualy used by search engines and social media websites / apps. It allows to customize your page's title, description, preview image and more.

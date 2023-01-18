@@ -1,6 +1,7 @@
 ---
 title: 3. Primary Menu
 date: 2021-12-18
+draft: true
 ---
 
 The sidebar of the theme uses the `main` menu. Add all the items for your sidebar navigation in this menu.

@@ -1,6 +1,7 @@
 ---
 title: 4. Social Menu
 date: 2021-12-18
+draft: true
 ---
 
 The social menu can be used to configure all the social icons in the sidebar. Add links to your social media in the website config to show the icons.

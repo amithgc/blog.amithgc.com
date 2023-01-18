@@ -1,6 +1,7 @@
 ---
 title: 5. Newsletter
 date: 2021-12-18
+draft: true
 ---
 
 The theme supports a subscription to multiple newsletter providers.
