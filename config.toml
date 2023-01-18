@@ -1,0 +1,63 @@
+baseURL = "https://amithgc.com"
+languageCode = "en-us"
+title = "Amith G Chandrappa"
+theme = "digitalgarden"
+
+googleAnalytics = "UA-PROPERTY_ID"
+
+[Params]
+  description = "My Digital Garden on the Internet"
+  images = ['/digital-garden-logo.png']
+  enableSearch = true
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 3
+[[menu.main]]
+  name = 'Projects'
+  url = '/portfolio'
+  weight = 4
+[[menu.main]]
+  name = 'Stack'
+  url = '/stack'
+  weight = 5
+[[menu.main]]
+  name = 'Links'
+  params.header = true
+  weight = 6
+[[menu.main]]
+  name = 'Polywork'
+  url = 'https://polywork.com'
+  weight = 7
+
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://twitter.com/amithgc'
+  weight = 1
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/amithgc'
+  weight = 2
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://www.linkedin.com/in/amithgc/'
+  weight = 3
+
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
