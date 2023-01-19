@@ -14,15 +14,18 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params]
   description = "Amith's Personal blog about everything"
   opengraph = true
-  twitter_cards = false
+  twitter_cards = true
   readmore = false # Show "Read more" button in list if true
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["post", "docs"]
+  toc = true
 
 [Params.logo]
   subtitle = "Just another blog, #DEVOPS, #LINUX, #CODE, #JAVA & #FUN" # Logo subtitle
+  image = "img/logo.png" # Logo image. Path relative to "static"
+
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
@@ -34,3 +37,13 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
+
+  # Override font-family sets
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+

@@ -7,7 +7,7 @@ sidebar: false
 thumbnail: "img/aq-1.gif"
 pager: true
 categories:
-  - "Development"
+  - "Automation"
 tags:
   - "AUTOMATION"
   - "CODE"
