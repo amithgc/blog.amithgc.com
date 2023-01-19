@@ -7,12 +7,6 @@ authorbox: true
 sidebar: true
 pager: true
 weight: 3
-categories:
-  - "Development"
-tags:
-  - "BASH"
-  - "CODE"
-  - "DEV-OPS"
 menu:
   main:
     name: CHEAT SHEETS
