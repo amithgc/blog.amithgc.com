@@ -1,55 +1,36 @@
-baseURL = "https://blog.amithgc.com"
-languageCode = "en-us"
+baseurl = "/"
 title = "Amith GC's Blog"
-theme = "digitalgarden"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
-googleAnalytics = "UA-PROPERTY_ID"
+[Author]
+  name = "John Doe"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/avatar.png"
 
 [Params]
-  description = "Amith GC's Blog"
-  images = ['/digital-garden-logo.png']
-  enableSearch = true
+  description = "John Doe's Personal blog about everything" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["post", "docs"]
 
-[menu]
-[[menu.main]]
-  name = 'Home'
-  url = '/'
-  weight = 1
-[[menu.main]]
-  name = 'Content'
-  params.header = true
-  weight = 2
-[[menu.main]]
-  name = 'Articles'
-  url = '/articles'
-  weight = 3
-[[menu.main]]
-  name = 'Links'
-  params.header = true
-  weight = 6
-[[menu.main]]
-  name = 'Profile'
-  url = 'https://amithgc.com'
-  weight = 7
+[Params.logo]
+  subtitle = "Just another blog, #DEVOPS, #LINUX, #CODE, #JAVA & #FUN" # Logo subtitle
 
-[[menu.social]]
-  name = 'Twitter'
-  url = 'https://twitter.com/amithgc'
-  weight = 1
-[[menu.social]]
-  name = 'GitHub'
-  url = 'https://github.com/amithgc'
-  weight = 2
-[[menu.social]]
-  name = 'LinkedIn'
-  url = 'https://www.linkedin.com/in/amithgc/'
-  weight = 3
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist"]
 
-
-# syntax highlight settings
-[markup]
-  [markup.highlight]
-    style = "dracula"
-  [markup.goldmark.renderer]
-    # Enable to include inline HTML
-    unsafe = true
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
