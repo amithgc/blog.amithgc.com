@@ -8,6 +8,7 @@ thumbnail: "img/ssh.webp"
 pager: true
 categories:
   - "Development"
+  - "Automation"
 tags:
   - "AUTOMATION"
   - "CODE"

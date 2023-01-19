@@ -12,7 +12,7 @@ menu: main
 
 Welcome to my blog, where we delve into the exciting world of coding, development, devops, and Linux! Whether you're a seasoned developer or just starting out, you'll find something here to interest and inspire you.
 
-## Welcome
+# Welcome 👋
 
 Coding is a magical process that turns our wildest ideas into reality. It's a tool that empowers us to create anything we can imagine, from simple websites to complex software systems. And that's exactly what we'll be exploring here on my blog.
 
