@@ -14,8 +14,6 @@ tags:
   - "DEV-OPS"
 ---
 
-![sendgrid](../images/blog-sendgrid.png)
-
 **Send EMAIL via SendGrid API using Shell Script**
 
 We had a requirement to send the Emails via SendGrid using a shell script, SendGrid does expose their HTTP API's. Below are some cURL examples for several basic use cases to get you sending email through SendGrid's v3 Mail Send endpoint right away!
