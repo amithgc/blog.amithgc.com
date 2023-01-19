@@ -11,7 +11,7 @@ categories:
 tags:
   - "AUTOMATION"
   - "CODE"
-  - "NODE RED"
+  - "NODE-RED"
 ---
 
 Just Planted Aquarium? NO. You can create a TimeLapse Video for every use-case you can think of.
