@@ -1,12 +1,11 @@
 ---
 title: "Monitor Api Response Time in SprintBoot Using Grafana"
-date: 2023-01-18T19:17:56+05:30
+date: 2023-01-17
 description: Monitor Api Response Time in SprintBoot Using Grafana
-date: 2018-04-16
 authorbox: true
 sidebar: false
 pager: true
-weight: 2
+thumbnail: "img/springBootLogo.webp"
 categories:
   - "Development"
 tags:
@@ -15,8 +14,6 @@ tags:
   - "CODE"
   - "DEV-OPS"
 ---
-
-![Spring Boot](../images/springBootLogo.webp)
 
 > API Response time — Response time is the amount of time a system takes to respond to a request once it has received one . For example, the time between the instant we execute an API and this API returns the result of its computation, that’s the response time.
 

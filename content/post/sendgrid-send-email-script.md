@@ -1,12 +1,11 @@
 ---
 title: "SendGrid Send Email Script"
-date: 2023-01-18T19:05:42+05:30
+date: 2023-01-17
 description: Send Emails via SendGrid using a shell script.
-date: 2018-04-16
 authorbox: true
 sidebar: false
 pager: true
-weight: 2
+thumbnail: "img/blog-sendgrid.png"
 categories:
   - "Development"
 tags:
