@@ -39,7 +39,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   categories_counter = true
 
 [Params.style.vars]
-  highlightColor = "#e22d30" # Override highlight color
+  highlightColor = "#218eed" # Override highlight color
 
   # Override font-family sets
   # Take care of different quotes OR escaping symbols in these params if necessary
