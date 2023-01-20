@@ -34,7 +34,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   widgets = ["search", "recent", "categories", "taglist", "social"]
 
 [Params.widgets]
-  recent_num = 5
+  recent_num = 15
   tags_counter = true
   categories_counter = true
 
