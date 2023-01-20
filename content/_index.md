@@ -22,6 +22,10 @@ But this blog isn't just about learning and staying up-to-date. It's also about 
 
 So join me as we explore the exciting world of coding, development, devops, and Linux. Together, we'll learn new skills, discover new technologies, and have a blast doing it!
 
+![](https://img.shields.io/github/issues-raw/amithgc/blog.amithgc.com?label=Total%20Comments)
+![](https://img.shields.io/twitter/follow/amithgc?style=social)
+![](https://img.shields.io/youtube/channel/subscribers/UCwzUWvDuLrMcelctB_4MMIQ?style=social)
+![](https://img.shields.io/github/last-commit/amithgc/blog.amithgc.com?label=Last%20Blog%20Post)
 ---
 
 → [Read the Blog](/post)
