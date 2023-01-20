@@ -12,6 +12,7 @@ categories:
 tags:
   - "LINUX"
   - "CODE"
+  - "DEV-OPS"
 ---
 
 > Network Time Protocol (NTP) is a networking protocol used to synchronize the clocks of computer systems over a network. It is designed to ensure that the time displayed on all computers in a network is accurate, even if some of the computers have incorrect or outdated clock settings. NTP is particularly useful in environments where multiple computers need to coordinate their actions or share time-sensitive information, such as in a distributed database or a network of servers.
