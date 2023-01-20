@@ -59,6 +59,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   rel = "noopener noreferrer" # Set to false to remove the rel attribute
 
 [[Params.widgets.social.custom]]
+  title = "StackOverflow Profile"
+  icon = "svg/tag.svg" # Optional. Path relative to "layouts/partials"
+  url = "https://stackoverflow.com/users/367016/amithgc"
+
+[[Params.widgets.social.custom]]
   title = "My Home Page"
   icon = "svg/author.svg" # Optional. Path relative to "layouts/partials"
   url = "https://amithgc.com"
