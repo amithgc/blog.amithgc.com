@@ -8,7 +8,8 @@ weight: 1
 menu: main
 ---
 
-![](../title.webp)
+![](../title-1.gif)
+
 
 Welcome to my blog, where we delve into the exciting world of coding, development, devops, and Linux! Whether you're a seasoned developer or just starting out, you'll find something here to interest and inspire you.
 
@@ -30,4 +31,9 @@ So join me as we explore the exciting world of coding, development, devops, and 
 ![](https://img.shields.io/stackexchange/stackoverflow/r/367016)
 ---
 
+![](https://picsum.photos/700/200)
+
+
 → [Read the Blog](/post)
+
+---
