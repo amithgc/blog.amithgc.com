@@ -29,6 +29,7 @@ So join me as we explore the exciting world of coding, development, devops, and 
 ![](https://img.shields.io/youtube/channel/subscribers/UCwzUWvDuLrMcelctB_4MMIQ?style=social)
 ![](https://img.shields.io/github/last-commit/amithgc/blog.amithgc.com?label=Last%20Blog%20Post)
 ![](https://img.shields.io/stackexchange/stackoverflow/r/367016)
+![](https://img.shields.io/github/repo-size/amithgc/blog.amithgc.com)
 ---
 
 ![](https://picsum.photos/700/200)
