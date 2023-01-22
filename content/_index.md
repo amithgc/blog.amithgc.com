@@ -30,6 +30,8 @@ So join me as we explore the exciting world of coding, development, devops, and 
 ![](https://img.shields.io/github/last-commit/amithgc/blog.amithgc.com?label=Last%20Blog%20Post)
 ![](https://img.shields.io/stackexchange/stackoverflow/r/367016)
 ![](https://img.shields.io/github/repo-size/amithgc/blog.amithgc.com)
+[![LinkedIn][linkedin-badge]][linkedin-profile]
+
 ---
 
 ![](https://picsum.photos/700/200)
@@ -38,3 +40,8 @@ So join me as we explore the exciting world of coding, development, devops, and 
 → [Read the Blog](/post)
 
 ---
+
+[linkedin-badge]:
+  https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&&logo=linkedin
+
+[linkedin-profile]: https://www.linkedin.com/in/amithgc/
