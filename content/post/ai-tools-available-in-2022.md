@@ -29,8 +29,9 @@ So if you're ready to explore the cutting edge of AI in 2022, read on for our gu
 
 **Link:** https://krisp.ai/
 
-
 If you've ever been on a conference call or video chat, you know how frustrating it can be to deal with background noises, echoes, and other distractions. But what if there was a way to eliminate those distractions and focus on what really matters - the conversation? That's where Krisp comes in.
+
+<img align="right" src="../images/krisp.ai.png" width="250px" height="250px">
 
 Krisp is a revolutionary AI-powered tool that removes background voices, noises, and echoes from your calls. Whether you're working from home or in a noisy coffee shop, Krisp ensures that your calls are crystal clear and distraction-free. And the best part? You don't need any special equipment or software - Krisp works with any communication app, from Zoom to Skype to Slack.
 
@@ -53,6 +54,9 @@ In conclusion, Krisp is a game-changer for anyone who relies on clear and distra
 
 If you're a content creator, you know how important it is to have the right music to set the mood and enhance your story. But finding the perfect soundtrack can be a challenge, especially if you're working on a tight budget. That's where Beatoven comes in.
 
+<img align="right" src="../images/beatoven.ai.png" width="250px" height="250px" style="padding:40px">
+
+
 Beatoven is an AI-powered music creation tool that allows you to create unique, royalty-free music that elevates your story. With Beatoven, you can choose from a variety of genres and moods, customize the tempo and instrumentation, and even add your own personal touch with original melodies and lyrics.
 
 One of the biggest advantages of using Beatoven is that all the music you create is 100% royalty-free. This means that you don't have to worry about copyright issues or licensing fees, which can save you time and money in the long run. And because you're creating the music yourself, you have complete control over the final product, ensuring that it perfectly matches the tone and style of your content.
@@ -72,6 +76,8 @@ In conclusion, Beatoven is a powerful tool for anyone looking to create unique a
 
 Podcasting has become an increasingly popular way for individuals and businesses to connect with their audiences. But producing a high-quality podcast can be a time-consuming process, especially when it comes to editing. That's where Cleanvoice comes in.
 
+<img align="right" src="../images/cleanvoice.ai.png" width="250px" height="250px" style="padding:40px">
+
 Cleanvoice is an AI-powered podcast editing tool that allows you to automatically edit your podcast episodes, saving you time and effort. With Cleanvoice, you can remove unwanted background noise, enhance audio quality, and even transcribe your podcast episodes into text for easy editing.
 
 Using Cleanvoice is easy and intuitive. Simply upload your audio file to the Cleanvoice platform and let the AI algorithms do the rest. Cleanvoice analyzes your audio and automatically removes any background noise, such as echoes, hums, or hisses. It also enhances audio quality by adjusting volume levels, equalizing frequencies, and removing any audio artifacts that may be present.
@@ -90,6 +96,8 @@ In conclusion, Cleanvoice is a game-changer for anyone looking to produce high-q
 **Link:** https://podcastle.ai/
 
 Creating a podcast can be a great way to connect with your audience and share your ideas with the world. But for many people, the technical aspects of podcast production can be a daunting task. That's where Podcastle comes in.
+
+<img align="right" src="../images/podcastle.ai.png" width="250px" height="250px" style="padding:40px">
 
 Podcastle is an AI-powered podcast recording tool that allows you to create studio-quality recordings right from your computer. With Podcastle, you can easily record, edit, and publish your podcast episodes with professional-level quality, without the need for expensive equipment or technical expertise.
 

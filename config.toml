@@ -67,3 +67,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   title = "My Home Page"
   icon = "svg/author.svg" # Optional. Path relative to "layouts/partials"
   url = "https://amithgc.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
