@@ -15,8 +15,9 @@ tags:
   - "AUTOMATION"
 ---
 
+**E**veryone's talking about ***ChatGPT***, the powerful language model that has taken the world by storm. But while ***ChatGPT*** is certainly an impressive feat of artificial intelligence, it's just the tip of the iceberg when it comes to the AI tools available in 2022.
 
-Everyone's talking about ***ChatGPT***, the powerful language model that has taken the world by storm. But while ***ChatGPT*** is certainly an impressive feat of artificial intelligence, it's just the tip of the iceberg when it comes to the AI tools available in 2022.
+<img align="left" src="../images/chatgpt.png" width="100px" height="100px" style="padding:20px">
 
 If you're not already taking advantage of the latest AI technologies, you're missing out on the revolution that's transforming industries and reshaping the way we live and work. That's why we've compiled a list of the top AI tools you need to know about. From natural language processing to computer vision and beyond, these tools are empowering businesses, researchers, and individuals to achieve new levels of productivity and innovation.
 
@@ -76,7 +77,7 @@ In conclusion, Beatoven is a powerful tool for anyone looking to create unique a
 
 Podcasting has become an increasingly popular way for individuals and businesses to connect with their audiences. But producing a high-quality podcast can be a time-consuming process, especially when it comes to editing. That's where Cleanvoice comes in.
 
-<img align="right" src="../images/cleanvoice.ai.png" width="250px" height="250px" style="padding:40px">
+<img align="right" src="../images/clearvoice.jpeg" width="250px" height="250px" style="padding:40px">
 
 Cleanvoice is an AI-powered podcast editing tool that allows you to automatically edit your podcast episodes, saving you time and effort. With Cleanvoice, you can remove unwanted background noise, enhance audio quality, and even transcribe your podcast episodes into text for easy editing.
 
@@ -97,7 +98,7 @@ In conclusion, Cleanvoice is a game-changer for anyone looking to produce high-q
 
 Creating a podcast can be a great way to connect with your audience and share your ideas with the world. But for many people, the technical aspects of podcast production can be a daunting task. That's where Podcastle comes in.
 
-<img align="right" src="../images/podcastle.ai.png" width="250px" height="250px" style="padding:40px">
+<img align="right" src="../images/Podcastle.jpeg" width="250px" height="250px" style="padding:40px">
 
 Podcastle is an AI-powered podcast recording tool that allows you to create studio-quality recordings right from your computer. With Podcastle, you can easily record, edit, and publish your podcast episodes with professional-level quality, without the need for expensive equipment or technical expertise.
 
@@ -118,6 +119,8 @@ In conclusion, Podcastle is a powerful tool for anyone looking to create high-qu
 
 Creating branded content can be a time-consuming and challenging task, especially for those without a design background. That's where Flair comes in.
 
+<img align="right" src="../images/Flair.jpeg" width="250px" height="250px" style="padding:40px">
+
 Flair is an AI-powered design tool that allows you to create high-quality branded content in a flash. With Flair, you can easily design social media posts, presentations, flyers, and more, all with a professional-level look and feel.
 
 One of the biggest advantages of using Flair is its user-friendly platform. Even those without design experience can use Flair to create beautiful and engaging content. The platform comes with a wide range of templates, graphics, and fonts, making it easy to create content that is on-brand and visually appealing.
@@ -137,6 +140,8 @@ In conclusion, Flair is a powerful tool for anyone looking to create branded con
 
 When it comes to creating visually stunning graphics, not everyone has the design skills or the time to create them from scratch. That's where Illustroke comes in. This AI-powered design tool makes it easy for anyone to create high-quality vector images from simple text prompts.
 
+<img align="right" src="../images/Illustroke.png" width="250px" height="250px" style="padding:40px">
+
 Illustroke uses a combination of machine learning and natural language processing to analyze your text input and generate a beautiful vector image based on your description. Whether you're looking to create a logo, an illustration, or a graphic for your social media posts, Illustroke can help you create killer vector images that will help your content stand out.
 
 One of the biggest advantages of using Illustroke is its simplicity. With just a few words, you can create a stunning vector image that perfectly captures your message or brand. This can save you time and effort, allowing you to focus on other aspects of your content creation.
@@ -153,6 +158,8 @@ In conclusion, Illustroke is a powerful tool for anyone looking to create high-q
 **Link:** https://www.patterned.ai/
 
 Patterned is an AI-powered tool that allows you to generate unique patterns for your design projects. Whether you're a graphic designer or a DIY enthusiast, Patterned can help you create custom patterns for any project.
+
+<img align="right" src="../images/Patterned.jpeg" width="250px" height="250px" style="padding:40px">
 
 With Patterned, you can choose from a wide variety of design elements, such as colors, shapes, and textures, to create the perfect pattern for your needs. And because the tool uses AI algorithms, the patterns it generates are unique and one-of-a-kind.
 
@@ -171,6 +178,8 @@ In conclusion, Patterned is a powerful tool for anyone looking to create custom 
 
 Stockimg is an AI-powered tool that allows you to generate custom stock photos for your projects. Whether you're a blogger, marketer, or creative professional, Stockimg can help you find the perfect image for your needs.
 
+<img align="right" src="../images/Stockimg.jpeg" width="250px" height="250px" style="padding:40px">
+
 With Stockimg, you can choose from a wide range of image elements, such as subjects, colors, and moods, to create the ideal stock photo for your project. And because the tool uses AI algorithms, the images it generates are unique and one-of-a-kind.
 
 One of the biggest advantages of using Stockimg is its speed. With just a few clicks, you can generate a custom stock photo that is perfect for your project. This can save you time and effort, allowing you to focus on other aspects of your work.
@@ -187,6 +196,8 @@ In conclusion, Stockimg is a powerful tool for anyone looking to create custom s
 **Link:** https://www.copy.ai/
 
 Copy is an AI-powered tool that helps you generate high-converting copy for your marketing and advertising campaigns. Whether you're a business owner or a marketing professional, Copy can help you create compelling copy that resonates with your target audience and drives conversions.
+
+<img align="right" src="../images/Copy.png" width="250px" height="250px" style="padding:40px">
 
 With Copy, you can input basic information about your brand and your target audience, and the tool will generate custom copy that is tailored to your needs. The tool uses advanced algorithms and natural language processing to create copy that is engaging, persuasive, and effective.
 
@@ -205,6 +216,8 @@ In conclusion, Copy is a powerful tool for anyone looking to create high-convert
 
 CopyMonkey is an AI-powered tool that helps you create Amazon listings quickly and easily. Whether you're a seller on Amazon or a business owner looking to expand your sales, CopyMonkey can help you generate product descriptions and bullet points that are optimized for Amazon's algorithm.
 
+<img align="right" src="../images/CopyMonkey.jpeg" width="250px" height="250px" style="padding:40px">
+
 With CopyMonkey, you can input basic information about your product, such as its name, category, and features, and the tool will generate a custom listing that is optimized for Amazon's search algorithm. The tool uses advanced algorithms and natural language processing to create copy that is engaging, persuasive, and effective.
 
 One of the biggest advantages of using CopyMonkey is its speed. With just a few clicks, you can generate high-quality copy that is proven to increase sales on Amazon. This can help you streamline your selling process, allowing you to focus on other aspects of your business.
@@ -221,6 +234,8 @@ In conclusion, CopyMonkey is a powerful tool for anyone looking to create optimi
 **Link:** https://www.ocoya.com/
 
 Ocoya is an AI-powered tool that helps you create and schedule social media content quickly and efficiently. Whether you're a small business owner or a social media manager, Ocoya can help you generate high-quality content that resonates with your audience and drives engagement.
+
+<img align="right" src="../images/Ocoya.png" width="250px" height="250px" style="padding:40px">
 
 With Ocoya, you can input basic information about your brand and your target audience, and the tool will generate custom social media posts that are tailored to your needs. The tool uses advanced algorithms and natural language processing to create content that is engaging, persuasive, and effective.
 
@@ -239,6 +254,8 @@ In conclusion, Ocoya is a powerful tool for anyone looking to create and schedul
 
 Unbounce Smart Copy is an AI-powered tool that helps you write high-performing cold emails at scale. Whether you're a sales professional or a business owner looking to reach new customers, Unbounce Smart Copy can help you create effective cold emails that convert.
 
+<img align="right" src="../images/Unbounce_Smart_Copy.png" width="250px" height="250px" style="padding:40px">
+
 With Unbounce Smart Copy, you can input basic information about your target audience and the type of message you want to convey, and the tool will generate custom cold emails that are optimized for performance. The tool uses advanced algorithms and natural language processing to create copy that is engaging, persuasive, and effective.
 
 One of the biggest advantages of using Unbounce Smart Copy is its ability to save time and resources. With just a few clicks, you can generate high-quality cold emails that are proven to increase engagement and conversions. This can help you streamline your outreach efforts, allowing you to focus on other aspects of your business.
@@ -256,6 +273,8 @@ In conclusion, Unbounce Smart Copy is a powerful tool for anyone looking to writ
 
 Vidyo is an AI-powered tool that helps you create short-form videos from long-form content quickly and easily. Whether you're a content creator, marketer, or business owner, Vidyo can help you repurpose your long-form content into bite-sized videos that are perfect for social media and other online platforms.
 
+<img align="right" src="../images/Vidyo.jpeg" width="250px" height="250px" style="padding:40px">
+
 With Vidyo, you can upload your long-form content, such as podcasts, webinars, or lectures, and the tool will automatically generate short-form videos that highlight the most important points. The tool uses advanced algorithms and natural language processing to identify the key moments in your content and turn them into engaging video clips.
 
 One of the biggest advantages of using Vidyo is its ability to save time and resources. With just a few clicks, you can create high-quality videos that are proven to increase engagement and drive traffic. This can help you repurpose your existing content and reach new audiences in a highly effective way.
@@ -272,6 +291,8 @@ In conclusion, Vidyo is a powerful tool for anyone looking to repurpose their lo
 **Link:** https://www.trymaverick.com/
 
 Maverick is an AI-powered tool that helps you create personalized videos at scale. Whether you're a marketer, sales professional, or business owner, Maverick can help you create customized video content that is tailored to your audience's interests and needs.
+
+<img align="right" src="../images/Maverick.png" width="250px" height="250px" style="padding:40px">
 
 With Maverick, you can input basic information about your target audience, such as their name, location, and interests, and the tool will generate custom videos that are optimized for engagement and conversion. The tool uses advanced algorithms and natural language processing to create videos that are highly personalized and relevant to your audience.
 
@@ -291,6 +312,8 @@ In conclusion, Maverick is a powerful tool for anyone looking to create personal
 
 Quickchat is an AI-powered tool that helps businesses automate their customer service chat operations. With Quickchat, businesses can create chatbots that are specifically designed to handle customer inquiries, provide support, and streamline the customer service process.
 
+<img align="right" src="../images/Quickchat.jpeg" width="250px" height="250px" style="padding:40px">
+
 One of the biggest advantages of using Quickchat is its ability to save time and resources. With the chatbots in place, businesses can handle a high volume of customer inquiries without the need for additional staff. The chatbots can be programmed to provide immediate responses to common customer queries, and can even be trained to handle more complex inquiries.
 
 Another advantage of using Quickchat is its ability to improve the customer experience. By providing instant and accurate responses, businesses can improve customer satisfaction and loyalty. The chatbots can also be customized to match the branding and tone of the business, providing a more personalized experience for customers.
@@ -307,6 +330,8 @@ In conclusion, Quickchat is a powerful tool for businesses looking to automate t
 **Link:** https://www.puzzlelabs.ai/
 
 Puzzle is an AI-powered tool that helps businesses build a knowledge base for their team and customers. With Puzzle, businesses can create an easy-to-use platform that contains all the information that their team and customers need to know about their products, services, and policies.
+
+<img align="right" src="../images/Puzzle.jpeg" width="250px" height="250px" style="padding:40px">
 
 One of the biggest advantages of using Puzzle is its ability to save time and resources. With a comprehensive knowledge base in place, businesses can reduce the number of inquiries and support requests they receive from their team and customers. This can free up valuable time and resources that can be allocated to other important business operations.
 
@@ -325,6 +350,8 @@ In conclusion, Puzzle is a powerful tool for businesses looking to build a compr
 
 Soundraw is an innovative AI-powered tool that enables users to create their own unique music tracks with ease. With Soundraw, users no longer have to waste time searching for the perfect song for their project. They can simply create it themselves.
 
+<img align="right" src="../images/Soundraw.jpeg" width="250px" height="250px" style="padding:40px">
+
 Soundraw's advanced AI technology makes it easy for anyone to create their own music track, regardless of their level of musical knowledge or experience. The platform provides users with a range of customizable options, such as the tempo, genre, and instruments. This allows users to create a personalized music track that perfectly matches their needs and requirements.
 
 One of the biggest advantages of using Soundraw is its efficiency. Users can create their own music track in just a few minutes, without the need for expensive equipment or professional musical expertise. This saves valuable time and resources, and allows users to focus on other important aspects of their project.
@@ -341,6 +368,8 @@ In conclusion, Soundraw is an innovative and efficient tool that allows users to
 **Link:** https://cleanup.pictures/
 
 Cleanup is an AI-powered tool that allows users to easily remove any unwanted object, defect, people, or text from their pictures in just seconds. This can be a huge time-saver, as previously it would require extensive photo editing skills and a lot of time and effort to remove these unwanted elements from images.
+
+<img align="right" src="../images/Cleanup.png"  width="250px" height="250px" style="padding:40px">
 
 Cleanup uses advanced AI algorithms to analyze images and identify the unwanted elements, and then removes them seamlessly. The tool can be used on a range of images, from portraits to landscapes, and can even be used on images with complex backgrounds.
 
@@ -359,6 +388,8 @@ In conclusion, Cleanup is an incredibly useful and efficient tool that allows us
 
 Resumeworded is a powerful AI tool that helps users to improve their resumes and LinkedIn profiles. It uses advanced algorithms to analyze the text and suggest improvements in areas such as wording, language, formatting, and content.
 
+<img align="right" src="../images/Resumeworded.png" width="250px" height="250px" style="padding:40px">
+
 The tool allows users to upload their resume or LinkedIn profile and receive instant feedback on areas for improvement. It provides detailed reports on areas that can be improved, and offers suggestions on how to make those improvements. This can be a huge benefit for job seekers, as having a polished and professional resume can be the difference between landing a job interview or not.
 
 Resumeworded also provides users with tailored advice on how to optimize their resumes for specific job roles and industries. This can be a big advantage for users who are looking to transition into a new field or role, as it can help them to present themselves as the best candidate for the job.
@@ -375,6 +406,8 @@ In conclusion, Resumeworded is a powerful tool for job seekers who are looking t
 **Link:** https://looka.com/
 
 Looka is a powerful design tool that allows users to create their own brand identity quickly and easily. With its intuitive interface and powerful design tools, Looka makes it easy for anyone to create a professional-looking brand that stands out from the crowd.
+
+<img align="right" src="../images/Looka.png" width="250px" height="250px" style="padding:40px">
 
 The platform offers a wide range of design templates to choose from, including logos, business cards, websites, and more. Users can customize these templates to suit their own needs and preferences, adding their own text, images, and colors to create a unique look and feel.
 
@@ -393,6 +426,8 @@ Overall, Looka is a powerful tool for anyone who is looking to create a professi
 
 When it comes to leveraging the power of AI to boost productivity, there is no shortage of options available. However, with so many different AIs out there, it can be challenging to know which one to use for a specific task. That's where Theresanaiforthat comes in.
 
+<img align="right" src="../images/theresanaiforthat.jpeg" width="250px" height="250px" style="padding:40px">
+
 Theresanaiforthat is a comprehensive database of AIs that are available for every task. Whether you're looking for an AI that can help you to automate your email marketing, or one that can assist with content creation, Theresanaiforthat has you covered.
 
 What sets Theresanaiforthat apart from other AI databases is its user-friendly interface, which makes it easy to find the right AI for your specific needs. The platform allows users to search for AIs by category, keyword, or task, and provides detailed information on each AI, including its features, pricing, and user reviews.
@@ -409,6 +444,8 @@ Overall, Theresanaiforthat is a valuable resource for anyone who is looking to l
 **Link:** https://www.synthesia.io/
 
 Video content is becoming increasingly important in today's digital landscape. However, creating high-quality videos can be time-consuming and expensive. That's where Synthesia comes in.
+
+<img align="right" src="../images/Synthesia.jpeg" width="250px" height="250px" style="padding:40px">
 
 Synthesia is an AI-powered video creation platform that allows you to create engaging video content by simply typing in text. The platform uses AI to generate lifelike video content that can be used for marketing, education, or entertainment purposes.
 
@@ -427,6 +464,8 @@ Overall, Synthesia is a powerful tool for anyone looking to create high-quality 
 
 Descript is a revolutionary platform that allows you to create and edit videos and podcasts in a whole new way. The platform offers a range of powerful tools and features that make it easy to create high-quality content quickly and easily.
 
+<img align="right" src="../images/descript.png" width="250px" height="250px" style="padding:40px">
+
 One of the key features of Descript is its ability to transcribe audio and video content in real-time. This means that you can easily edit your content by editing the text transcription. You can delete words or sentences, add new ones, or even move them around to create the perfect flow. This makes editing much faster and more efficient than traditional video and podcast editing tools.
 
 Descript also offers a range of other features, such as the ability to add sound effects and music to your content, as well as the ability to record and edit video and audio in the same platform. This makes it easy to create high-quality video content that is engaging and visually appealing.
@@ -442,6 +481,8 @@ Overall, Descript is a powerful tool that offers a new and innovative way to cre
 
 Meetings are an essential part of any business or organization, but taking notes can be a tedious and time-consuming task. That's where Otter comes in – it's an AI-powered platform that makes it easy to capture and share insights from your meetings.
 
+<img align="right" src="../images/Otter.png">
+
 With Otter, you can simply record your meetings, and the platform will automatically transcribe the audio into text. The platform uses advanced speech recognition technology to accurately transcribe the content, so you can easily search for keywords and phrases later on. This makes it easy to find specific information and insights from your meetings.
 
 In addition to transcribing your meetings, Otter also offers a range of other features, such as the ability to highlight and annotate specific parts of the text, add photos and files to your notes, and share your notes with others. This makes it easy to collaborate and share information with your team, even if they weren't present in the meeting.
@@ -456,6 +497,8 @@ Overall, Otter is a powerful platform that can help you save time and improve co
 **Link:** https://inkforall.com/
 
 Inkforall is a platform that utilizes AI technology to assist with content generation, optimization, and performance. Whether you're a marketer, blogger, or content creator, Inkforall can help you create high-quality content that resonates with your target audience.
+
+<img align="right" src="../images/Inkforall.png" width="250px" height="250px" style="padding:40px">
 
 With the content generation feature, you can input a topic or keyword, and the platform will generate an article for you. The AI technology ensures that the content is informative, engaging, and SEO-friendly, so you can be sure that it will perform well online.
 
@@ -473,6 +516,8 @@ Overall, Inkforall is a powerful tool for anyone looking to create high-quality 
 **Link:** https://thundercontent.com/
 
 Thundercontent is an AI-powered platform that can help you generate high-quality content for your website or blog. With its advanced natural language processing algorithms, Thundercontent can create informative, engaging, and SEO-friendly content on a variety of topics.
+
+<img align="right" src="../images/Thundercontent.jpeg" width="250px" height="250px" style="padding:40px">
 
 The platform uses cutting-edge AI technology to analyze millions of data points and create content that is tailored to your specific needs. Whether you need product descriptions, blog posts, or landing pages, Thundercontent can create content that meets your specific requirements.
 
