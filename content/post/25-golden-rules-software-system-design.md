@@ -243,7 +243,7 @@ Batch processing is a technique used in systems that require the processing of l
 
 A rate limiter is a tool used in systems to control the rate at which requests are made to a server. By limiting the rate of requests, a rate limiter can reduce the load on a server, prevent denial of service (DoS) attacks, and ensure that the server is able to operate efficiently.
 
-A *rate limiter* works by enforcing a limit on the number of requests that can be made within a given time period. When a client exceeds this limit, the rate limiter will block further requests from that client, preventing them from overwhelming the server.
+A **rate limiter** works by enforcing a limit on the number of requests that can be made within a given time period. When a client exceeds this limit, the rate limiter will block further requests from that client, preventing them from overwhelming the server.
 
 > *Good examples* of systems that use rate limiters include web servers, APIs, and cloud-based services. In these systems, rate limiters are used to control the rate at which requests are made to the server, preventing DoS attacks and reducing server load. For example, popular web services like Twitter and Facebook use rate limiters to prevent users from sending too many requests and overloading their servers.
 
