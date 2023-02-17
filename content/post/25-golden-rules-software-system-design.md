@@ -133,13 +133,13 @@ A **Message Queue** system can be used to handle the incoming data feeds, such a
 
 In systems that require searching data in high volume, traditional database systems can often be slow and inefficient. To improve performance, it is recommended to use a search index, tries, or a search engine like Elasticsearch, which are designed to handle high-volume search queries quickly and efficiently.
 
-Search indexes and tries are data structures that allow for efficient searching of large data sets. Search indexes, also known as inverted indexes, store a mapping of each term in the dataset to the location of that term in the data. Tries are a tree-like data structure that can efficiently store and search for strings.
+**Search indexes** and tries are data structures that allow for efficient searching of large data sets. Search indexes, also known as inverted indexes, store a mapping of each term in the dataset to the location of that term in the data. Tries are a tree-like data structure that can efficiently store and search for strings.
 
 Search engines like Elasticsearch are built on top of search indexes and provide a more complete solution to searching large data sets. Elasticsearch can store and search data across multiple indexes and has features for faceted search, full-text search, and geospatial search.
 
-Good examples of systems that use search indexes and engines include e-commerce platforms like Amazon or eBay, where users need to search for products based on keywords or other criteria. Social media platforms like Twitter also use search indexes and engines to search for tweets based on hashtags or other keywords. In the medical field, search indexes and engines are used to search through large amounts of medical data for specific symptoms or diseases.
+> *Good examples* of systems that use search indexes and engines include e-commerce platforms like Amazon or eBay, where users need to search for products based on keywords or other criteria. Social media platforms like Twitter also use search indexes and engines to search for tweets based on hashtags or other keywords. In the medical field, search indexes and engines are used to search through large amounts of medical data for specific symptoms or diseases.
 
-In conclusion, search indexes, tries, and search engines like Elasticsearch provide efficient and scalable solutions for searching data in high volume. By using these technologies, complex search queries can be processed quickly and efficiently, resulting in faster and more accurate search results. Examples of applications that use these technologies include e-commerce, social media, and medical research.
+*In conclusion*, search indexes, tries, and search engines like Elasticsearch provide efficient and scalable solutions for searching data in high volume. By using these technologies, complex search queries can be processed quickly and efficiently, resulting in faster and more accurate search results. Examples of applications that use these technologies include e-commerce, social media, and medical research.
 
 ---
 
@@ -147,13 +147,13 @@ In conclusion, search indexes, tries, and search engines like Elasticsearch prov
 
 In systems that require high scalability, traditional SQL databases can often become a bottleneck due to their centralized architecture. One way to address this is by using database sharding, which is a technique that divides a single database into smaller, independent databases known as shards, each handling a subset of the data. This allows for more efficient scaling of the database while maintaining the ability to perform complex queries across the entire dataset.
 
-Database sharding has several benefits, including increased scalability, improved performance, and better fault tolerance. By distributing the data across multiple shards, the system can handle larger volumes of data and more concurrent users. This can lead to faster query response times and improved overall system performance.
+**Database sharding** has several benefits, including increased scalability, improved performance, and better fault tolerance. By distributing the data across multiple shards, the system can handle larger volumes of data and more concurrent users. This can lead to faster query response times and improved overall system performance.
 
-Good examples of systems that use database sharding include social media platforms like Instagram and Twitter, which handle large volumes of data and users. In these systems, the user data is sharded across multiple databases, allowing for efficient scaling while maintaining fast query response times.
+> *Good examples* of systems that use database sharding include social media platforms like Instagram and Twitter, which handle large volumes of data and users. In these systems, the user data is sharded across multiple databases, allowing for efficient scaling while maintaining fast query response times.
 
-Another example is e-commerce platforms like Etsy, which use database sharding to handle large volumes of product and customer data. In this case, the data is sharded based on categories or other criteria, allowing for efficient scaling while maintaining complex querying capabilities.
+> *Another example* is e-commerce platforms like Etsy, which use database sharding to handle large volumes of product and customer data. In this case, the data is sharded based on categories or other criteria, allowing for efficient scaling while maintaining complex querying capabilities.
 
-In conclusion, database sharding is an effective technique for scaling SQL databases to handle high volumes of data and users. By dividing the data into smaller, independent databases, the system can maintain performance and scale efficiently. Good examples of systems that use this technique include social media and e-commerce platforms.
+*In conclusion*, database sharding is an effective technique for scaling SQL databases to handle high volumes of data and users. By dividing the data into smaller, independent databases, the system can maintain performance and scale efficiently. Good examples of systems that use this technique include social media and e-commerce platforms.
 
 ---
 
@@ -161,25 +161,25 @@ In conclusion, database sharding is an effective technique for scaling SQL datab
 
 In systems that require high availability, performance, and throughput, a load balancer is an effective solution. Load balancing is the process of distributing incoming network traffic across multiple servers or computing resources, known as a cluster, to optimize resource utilization, maximize throughput, and minimize response time.
 
-Load balancers provide several benefits, including improved availability and reliability of the system, better utilization of resources, and improved scalability. By distributing traffic across multiple servers or resources, the load balancer can ensure that the system is available and responsive, even in the event of failures or spikes in traffic. Additionally, load balancers can optimize resource utilization by directing traffic to the most available and least loaded server, improving overall system performance and throughput.
+**Load balancers** provide several benefits, including improved availability and reliability of the system, better utilization of resources, and improved scalability. By distributing traffic across multiple servers or resources, the load balancer can ensure that the system is available and responsive, even in the event of failures or spikes in traffic. Additionally, load balancers can optimize resource utilization by directing traffic to the most available and least loaded server, improving overall system performance and throughput.
 
-Good examples of systems that use load balancers include e-commerce platforms like Amazon and Netflix, which handle high volumes of traffic and require high availability and performance. In these systems, load balancers distribute traffic across multiple servers, allowing for efficient handling of requests and improved system performance.
+> *Good examples* of systems that use load balancers include e-commerce platforms like Amazon and Netflix, which handle high volumes of traffic and require high availability and performance. In these systems, load balancers distribute traffic across multiple servers, allowing for efficient handling of requests and improved system performance.
 
-Another example is cloud computing platforms like Amazon Web Services and Microsoft Azure, which provide load balancing services to manage network traffic and distribute it across multiple instances or resources.
+> *Another example* is cloud computing platforms like Amazon Web Services and Microsoft Azure, which provide load balancing services to manage network traffic and distribute it across multiple instances or resources.
 
-In conclusion, load balancing is an effective solution for ensuring high availability, performance, and throughput in systems that handle high volumes of traffic. Good examples of systems that use load balancers include e-commerce and cloud computing platforms, among others. By using load balancing techniques, these systems can ensure high availability and performance, even under heavy traffic loads.
+*In conclusion*, load balancing is an effective solution for ensuring high availability, performance, and throughput in systems that handle high volumes of traffic. Good examples of systems that use load balancers include e-commerce and cloud computing platforms, among others. By using load balancing techniques, these systems can ensure high availability and performance, even under heavy traffic loads.
 
 ---
 
 ### Requires faster data delivery globally, reliability, high availability, & performance? Use *CDN*
 
-Content Delivery Networks (CDNs) are a distributed system of servers that are designed to provide faster data delivery, high availability, and reliability by caching and serving content from servers that are geographically closer to end-users. CDNs reduce the latency of content delivery by caching and serving content from the server that is closest to the end-user, thereby reducing the amount of time required to fetch content from a remote server.
+**Content Delivery Networks (CDNs)** are a distributed system of servers that are designed to provide faster data delivery, high availability, and reliability by caching and serving content from servers that are geographically closer to end-users. CDNs reduce the latency of content delivery by caching and serving content from the server that is closest to the end-user, thereby reducing the amount of time required to fetch content from a remote server.
 
 CDNs provide several benefits, including improved website performance, faster content delivery, and better reliability. By distributing content across multiple servers, CDNs can handle high traffic volumes, ensure faster data delivery globally, and provide high availability, even in the event of a server failure. Additionally, CDNs provide an added layer of security against DDoS attacks by spreading the traffic across multiple servers.
 
-Good examples of systems that use CDNs include media streaming platforms like Netflix, YouTube, and Hulu, which need to deliver high-quality video content to millions of users across the globe. In these systems, CDNs are used to reduce the latency of content delivery and improve the overall user experience. E-commerce websites like Amazon and Walmart also use CDNs to ensure faster content delivery, high availability, and reliability, improving the overall user experience.
+> *Good examples* of systems that use CDNs include media streaming platforms like Netflix, YouTube, and Hulu, which need to deliver high-quality video content to millions of users across the globe. In these systems, CDNs are used to reduce the latency of content delivery and improve the overall user experience. E-commerce websites like Amazon and Walmart also use CDNs to ensure faster content delivery, high availability, and reliability, improving the overall user experience.
 
-In conclusion, CDNs are an effective solution for faster data delivery, reliability, high availability, and performance in systems that require global delivery of content. Good examples of systems that use CDNs include media streaming and e-commerce platforms, among others. By using CDNs, these systems can provide a better user experience, improve the availability and reliability of content delivery, and enhance the performance of the system.
+*In conclusion*, CDNs are an effective solution for faster data delivery, reliability, high availability, and performance in systems that require global delivery of content. Good examples of systems that use CDNs include media streaming and e-commerce platforms, among others. By using CDNs, these systems can provide a better user experience, improve the availability and reliability of content delivery, and enhance the performance of the system.
 
 ---
 
@@ -187,13 +187,13 @@ In conclusion, CDNs are an effective solution for faster data delivery, reliabil
 
 In systems that require modeling data with nodes, edges, and relationships, such as friend lists, social networks, and road connections, a graph database is a powerful solution. Unlike traditional relational databases, graph databases allow for efficient modeling, querying, and analyzing of complex relationships between data points.
 
-A graph database stores data in a graph-like structure, where nodes represent entities, edges represent relationships between those entities, and properties represent attributes of those entities and relationships. This structure allows for efficient querying and analysis of complex data relationships, such as finding the shortest path between two nodes in a road network or identifying common friends in a social network.
+A **graph database** stores data in a graph-like structure, where nodes represent entities, edges represent relationships between those entities, and properties represent attributes of those entities and relationships. This structure allows for efficient querying and analysis of complex data relationships, such as finding the shortest path between two nodes in a road network or identifying common friends in a social network.
 
-Good examples of systems that use graph databases include social networks like Facebook and LinkedIn, which require modeling complex relationships between users and their connections. In these systems, graph databases are used to efficiently store, query, and analyze data related to user connections, interests, and activities.
+> *Good examples* of systems that use graph databases include social networks like Facebook and LinkedIn, which require modeling complex relationships between users and their connections. In these systems, graph databases are used to efficiently store, query, and analyze data related to user connections, interests, and activities.
 
-Another example is transportation systems like Uber and Lyft, which use graph databases to model complex road networks, including road connections, traffic patterns, and optimal routes between locations. In these systems, graph databases are used to efficiently store, query, and analyze data related to the road network and provide optimal routing and navigation to drivers and passengers.
+> *Another example* is transportation systems like Uber and Lyft, which use graph databases to model complex road networks, including road connections, traffic patterns, and optimal routes between locations. In these systems, graph databases are used to efficiently store, query, and analyze data related to the road network and provide optimal routing and navigation to drivers and passengers.
 
-In conclusion, graph databases are a powerful solution for systems that require modeling data with nodes, edges, and relationships. Good examples of systems that use graph databases include social networks and transportation systems, among others. By using graph databases, these systems can efficiently store, query, and analyze complex data relationships, providing valuable insights and improving the overall system performance.
+*In conclusion*, graph databases are a powerful solution for systems that require modeling data with nodes, edges, and relationships. Good examples of systems that use graph databases include social networks and transportation systems, among others. By using graph databases, these systems can efficiently store, query, and analyze complex data relationships, providing valuable insights and improving the overall system performance.
 
 ---
 
@@ -201,13 +201,13 @@ In conclusion, graph databases are a powerful solution for systems that require 
 
 Horizontal scaling, also known as scaling out, is a technique used to increase the capacity of a system by adding more resources, such as servers, databases, or storage nodes. In horizontal scaling, additional resources are added in parallel, allowing the system to handle more requests and improve performance.
 
-Horizontal scaling is particularly useful for systems that need to handle variable or unpredictable workloads, as it allows the system to dynamically scale up or down to meet demand. It also provides increased resilience and availability, as a failure in one component can be isolated and the remaining components can continue to function.
+**Horizontal scaling** is particularly useful for systems that need to handle variable or unpredictable workloads, as it allows the system to dynamically scale up or down to meet demand. It also provides increased resilience and availability, as a failure in one component can be isolated and the remaining components can continue to function.
 
-Good examples of systems that use horizontal scaling include cloud-based services like Amazon Web Services (AWS) and Google Cloud Platform (GCP), which allow users to dynamically scale up or down their resources based on demand. These platforms use horizontal scaling to provide high availability, resilience, and performance to their users.
+> *Good examples* of systems that use horizontal scaling include cloud-based services like Amazon Web Services (AWS) and Google Cloud Platform (GCP), which allow users to dynamically scale up or down their resources based on demand. These platforms use horizontal scaling to provide high availability, resilience, and performance to their users.
 
-Another example is social media platforms like Twitter and Facebook, which experience large spikes in traffic during popular events or breaking news. In these systems, horizontal scaling is used to dynamically add more resources to handle the increased workload, ensuring that the system remains responsive and available to users.
+> *Another example* is social media platforms like Twitter and Facebook, which experience large spikes in traffic during popular events or breaking news. In these systems, horizontal scaling is used to dynamically add more resources to handle the increased workload, ensuring that the system remains responsive and available to users.
 
-In conclusion, horizontal scaling is an effective technique for scaling various components like servers, databases, and storage nodes in a system. Good examples of systems that use horizontal scaling include cloud-based services and social media platforms, among others. By using horizontal scaling, these systems can provide high availability, performance, and resilience, while also allowing for dynamic scaling in response to changing demand.
+*In conclusion*, horizontal scaling is an effective technique for scaling various components like servers, databases, and storage nodes in a system. Good examples of systems that use horizontal scaling include cloud-based services and social media platforms, among others. By using horizontal scaling, these systems can provide high availability, performance, and resilience, while also allowing for dynamic scaling in response to changing demand.
 
 ---
 
@@ -215,13 +215,13 @@ In conclusion, horizontal scaling is an effective technique for scaling various 
 
 Database indexes are a powerful tool for improving the performance of database queries in systems that require high-performing data access. Indexes provide a way to quickly locate data in a database, reducing the amount of time needed to perform queries and improving the overall system performance.
 
-A database index is a data structure that stores a subset of data from a table, organized in a way that allows for faster searching and sorting. Indexes can be created on one or more columns of a table, and can significantly improve the performance of queries that involve those columns.
+A **database index **is a data structure that stores a subset of data from a table, organized in a way that allows for faster searching and sorting. Indexes can be created on one or more columns of a table, and can significantly improve the performance of queries that involve those columns.
 
-Good examples of systems that use database indexes include e-commerce websites like Amazon and eBay, which require fast access to large amounts of product data. In these systems, indexes are used to optimize search queries, allowing users to quickly find and purchase products.
+> *Good examples* of systems that use database indexes include e-commerce websites like Amazon and eBay, which require fast access to large amounts of product data. In these systems, indexes are used to optimize search queries, allowing users to quickly find and purchase products.
 
-Another example is financial trading systems, which require fast access to large amounts of real-time data. In these systems, indexes are used to optimize queries that involve trading data, allowing traders to quickly analyze market trends and make informed decisions.
+> *Another example* is financial trading systems, which require fast access to large amounts of real-time data. In these systems, indexes are used to optimize queries that involve trading data, allowing traders to quickly analyze market trends and make informed decisions.
 
-In conclusion, database indexes are a powerful tool for improving the performance of database queries in systems that require high-performing data access. Good examples of systems that use database indexes include e-commerce websites and financial trading systems, among others. By using indexes, these systems can provide fast access to large amounts of data, improving the overall system performance and user experience.
+*In conclusion*, database indexes are a powerful tool for improving the performance of database queries in systems that require high-performing data access. Good examples of systems that use database indexes include e-commerce websites and financial trading systems, among others. By using indexes, these systems can provide fast access to large amounts of data, improving the overall system performance and user experience.
 
 ---
 
@@ -229,13 +229,13 @@ In conclusion, database indexes are a powerful tool for improving the performanc
 
 Batch processing is a technique used in systems that require the processing of large amounts of data or time-consuming tasks, such as generating reports, analyzing large datasets, or performing backups. Batch processing involves executing a large number of jobs or tasks in a batch or group, instead of processing them individually.
 
-Batch processing is commonly used in systems that require bulk job processing, as it allows for the efficient processing of large volumes of data or tasks. Batch processing can also be combined with message queues to ensure that jobs are executed in a reliable and efficient manner.
+**Batch processing** is commonly used in systems that require bulk job processing, as it allows for the efficient processing of large volumes of data or tasks. Batch processing can also be combined with message queues to ensure that jobs are executed in a reliable and efficient manner.
 
-Good examples of systems that use batch processing and message queues include financial transaction processing systems, which process large volumes of transactions on a daily basis. In these systems, batch processing is used to perform tasks like reconciliation, reporting, and analysis, while message queues are used to manage the flow of transactions through the system.
+> *Good examples* of systems that use batch processing and message queues include financial transaction processing systems, which process large volumes of transactions on a daily basis. In these systems, batch processing is used to perform tasks like reconciliation, reporting, and analysis, while message queues are used to manage the flow of transactions through the system.
 
-Another example is cloud-based systems like Amazon Web Services (AWS), which provide batch processing services like AWS Batch and AWS Lambda. These services allow users to easily execute large-scale batch jobs in the cloud, using message queues to manage the flow of data and ensure reliability.
+> *Another example* is cloud-based systems like Amazon Web Services (AWS), which provide batch processing services like AWS Batch and AWS Lambda. These services allow users to easily execute large-scale batch jobs in the cloud, using message queues to manage the flow of data and ensure reliability.
 
-In conclusion, batch processing and message queues are powerful tools for processing large volumes of data or time-consuming tasks in systems that require bulk job processing. Good examples of systems that use these techniques include financial transaction processing systems and cloud-based services like AWS. By using batch processing and message queues, these systems can efficiently and reliably process large amounts of data, improving the overall system performance and user experience.
+*In conclusion*, batch processing and message queues are powerful tools for processing large volumes of data or time-consuming tasks in systems that require bulk job processing. Good examples of systems that use these techniques include financial transaction processing systems and cloud-based services like AWS. By using batch processing and message queues, these systems can efficiently and reliably process large amounts of data, improving the overall system performance and user experience.
 
 ---
 
@@ -243,13 +243,13 @@ In conclusion, batch processing and message queues are powerful tools for proces
 
 A rate limiter is a tool used in systems to control the rate at which requests are made to a server. By limiting the rate of requests, a rate limiter can reduce the load on a server, prevent denial of service (DoS) attacks, and ensure that the server is able to operate efficiently.
 
-A rate limiter works by enforcing a limit on the number of requests that can be made within a given time period. When a client exceeds this limit, the rate limiter will block further requests from that client, preventing them from overwhelming the server.
+A *rate limiter* works by enforcing a limit on the number of requests that can be made within a given time period. When a client exceeds this limit, the rate limiter will block further requests from that client, preventing them from overwhelming the server.
 
-Good examples of systems that use rate limiters include web servers, APIs, and cloud-based services. In these systems, rate limiters are used to control the rate at which requests are made to the server, preventing DoS attacks and reducing server load. For example, popular web services like Twitter and Facebook use rate limiters to prevent users from sending too many requests and overloading their servers.
+> *Good examples* of systems that use rate limiters include web servers, APIs, and cloud-based services. In these systems, rate limiters are used to control the rate at which requests are made to the server, preventing DoS attacks and reducing server load. For example, popular web services like Twitter and Facebook use rate limiters to prevent users from sending too many requests and overloading their servers.
 
-Another example is online payment systems, which use rate limiters to prevent fraudulent transactions. By limiting the rate at which transactions can be made, payment systems can detect and prevent fraudulent activity in real-time, ensuring the security and reliability of the system.
+> *Another example* is online payment systems, which use rate limiters to prevent fraudulent transactions. By limiting the rate at which transactions can be made, payment systems can detect and prevent fraudulent activity in real-time, ensuring the security and reliability of the system.
 
-In conclusion, rate limiters are a powerful tool for reducing server load and preventing DoS attacks in systems that require efficient and reliable operation. Good examples of systems that use rate limiters include web servers, APIs, and online payment systems. By using rate limiters, these systems can ensure the security and reliability of the system, providing a better user experience for their clients.
+*In conclusion*, rate limiters are a powerful tool for reducing server load and preventing DoS attacks in systems that require efficient and reliable operation. Good examples of systems that use rate limiters include web servers, APIs, and online payment systems. By using rate limiters, these systems can ensure the security and reliability of the system, providing a better user experience for their clients.
 
 ---
 
@@ -257,25 +257,25 @@ In conclusion, rate limiters are a powerful tool for reducing server load and pr
 
 A single point of failure (SPOF) is a component of a system that, if it fails, can cause the entire system to fail. To prevent the failure of the entire system, redundancy can be implemented in that component. Redundancy is the process of creating backup components that can take over the function of the failed component in case it fails.
 
-Good examples of systems that use redundancy include data centers, servers, and storage devices. In a data center, redundancy can be achieved by having multiple power sources, cooling systems, and internet connections. In a server, redundancy can be achieved by having multiple power supplies, hard drives, and network cards. In a storage device, redundancy can be achieved by using RAID (redundant array of independent disks) technology.
+> *Good examples* of systems that use redundancy include data centers, servers, and storage devices. In a data center, redundancy can be achieved by having multiple power sources, cooling systems, and internet connections. In a server, redundancy can be achieved by having multiple power supplies, hard drives, and network cards. In a storage device, redundancy can be achieved by using RAID (redundant array of independent disks) technology.
 
-By implementing redundancy in a system, the impact of a failure can be minimized, and the system can continue to operate even if a component fails. For example, in a data center, if one power source fails, the backup power source can take over, preventing the entire data center from going down.
+By implementing **redundancy** in a system, the impact of a failure can be minimized, and the system can continue to operate even if a component fails. For example, in a data center, if one power source fails, the backup power source can take over, preventing the entire data center from going down.
 
-Another example is in a server cluster. By using load balancing and redundancy, traffic can be distributed across multiple servers, ensuring that if one server fails, the traffic can be automatically redirected to a backup server, preventing downtime and ensuring the continuity of service.
+> *Another example* is in a server cluster. By using load balancing and redundancy, traffic can be distributed across multiple servers, ensuring that if one server fails, the traffic can be automatically redirected to a backup server, preventing downtime and ensuring the continuity of service.
 
-In conclusion, implementing redundancy in a system can help prevent single points of failure and ensure the continuity of service in the event of a component failure. Good examples of systems that use redundancy include data centers, servers, and storage devices. By implementing redundancy, these systems can operate with high availability, reducing downtime and improving the user experience.
+*In conclusion*, implementing redundancy in a system can help prevent single points of failure and ensure the continuity of service in the event of a component failure. Good examples of systems that use redundancy include data centers, servers, and storage devices. By implementing redundancy, these systems can operate with high availability, reducing downtime and improving the user experience.
 
 ---
 
 ### Need to be fault-tolerant & durable? we should implement *Data Replication*
 
-Data replication is the process of creating multiple copies of data on different servers, making the system fault-tolerant and durable. By replicating data, the system can continue to operate even if one or more servers fail. This is because the data is stored on multiple servers, and in case of a failure, the system can continue to operate using the replica copies of the data.
+**Data replication** is the process of creating multiple copies of data on different servers, making the system fault-tolerant and durable. By replicating data, the system can continue to operate even if one or more servers fail. This is because the data is stored on multiple servers, and in case of a failure, the system can continue to operate using the replica copies of the data.
 
-Good examples of systems that use data replication include distributed databases and cloud storage systems. In a distributed database, data is stored on multiple servers, and changes made to one copy are automatically replicated to other copies, ensuring consistency and durability. In cloud storage systems, data is replicated across multiple data centers, ensuring that even if one data center goes down, the data is still available from another data center.
+> *Good examples* of systems that use data replication include distributed databases and cloud storage systems. In a distributed database, data is stored on multiple servers, and changes made to one copy are automatically replicated to other copies, ensuring consistency and durability. In cloud storage systems, data is replicated across multiple data centers, ensuring that even if one data center goes down, the data is still available from another data center.
 
 Data replication can also be used in disaster recovery scenarios. In this case, a backup data center is set up in a different geographic location, and data is replicated from the primary data center to the backup data center. In case of a disaster at the primary data center, the system can failover to the backup data center, ensuring the continuity of service.
 
-In conclusion, data replication is a useful technique for creating fault-tolerant and durable systems. Good examples of systems that use data replication include distributed databases and cloud storage systems. By replicating data, these systems can continue to operate even in the event of a server failure, ensuring the continuity of service and improving the user experience.
+*In conclusion*, data replication is a useful technique for creating fault-tolerant and durable systems. Good examples of systems that use data replication include distributed databases and cloud storage systems. By replicating data, these systems can continue to operate even in the event of a server failure, ensuring the continuity of service and improving the user experience.
 
 ---
 
@@ -283,13 +283,13 @@ In conclusion, data replication is a useful technique for creating fault-toleran
 
 Websockets are a communication protocol that allows for real-time, bi-directional communication between a client and a server. They are often used in applications that require fast and responsive user-to-user communication, such as chat applications, gaming platforms, and collaborative work environments.
 
-Websockets enable a persistent connection between the client and server, which allows for the efficient and fast transmission of data. This is in contrast to HTTP, which requires a new connection to be established for each request and response. By using Websockets, applications can achieve near-instant communication, allowing for a more seamless and natural user experience.
+**Websockets** enable a persistent connection between the client and server, which allows for the efficient and fast transmission of data. This is in contrast to HTTP, which requires a new connection to be established for each request and response. By using Websockets, applications can achieve near-instant communication, allowing for a more seamless and natural user experience.
 
-Good examples of applications that use Websockets include chat applications like Slack, gaming platforms like Discord, and collaborative work environments like Google Docs. These applications require fast and responsive communication between users, and Websockets provide a reliable and efficient means of achieving this.
+> *Good examples* of applications that use Websockets include chat applications like Slack, gaming platforms like Discord, and collaborative work environments like Google Docs. These applications require fast and responsive communication between users, and Websockets provide a reliable and efficient means of achieving this.
 
 Websockets are supported by most modern web browsers, and many server-side frameworks and libraries offer built-in support for Websockets. This makes it easy to integrate Websockets into new or existing applications.
 
-In conclusion, Websockets are a powerful tool for enabling fast and responsive user-to-user communication in applications that require it. Good examples of applications that use Websockets include chat applications, gaming platforms, and collaborative work environments. By leveraging Websockets, developers can create more efficient and seamless user experiences, improving the overall usability of their applications.
+*In conclusion*, Websockets are a powerful tool for enabling fast and responsive user-to-user communication in applications that require it. Good examples of applications that use Websockets include chat applications, gaming platforms, and collaborative work environments. By leveraging Websockets, developers can create more efficient and seamless user experiences, improving the overall usability of their applications.
 
 ---
 
@@ -297,13 +297,13 @@ In conclusion, Websockets are a powerful tool for enabling fast and responsive u
 
 In distributed systems, where components are spread across multiple machines or networks, it is crucial to be able to detect and respond to failures quickly. One way to accomplish this is by implementing a heartbeat mechanism.
 
-A heartbeat is a signal sent at regular intervals between the components of a distributed system to indicate that they are still functioning correctly. If a component does not receive a heartbeat signal from another component, it can assume that the other component has failed and take appropriate action, such as failing over to a backup or initiating a recovery process.
+A **heartbeat** is a signal sent at regular intervals between the components of a distributed system to indicate that they are still functioning correctly. If a component does not receive a heartbeat signal from another component, it can assume that the other component has failed and take appropriate action, such as failing over to a backup or initiating a recovery process.
 
-Good examples of systems that use a heartbeat mechanism include Apache ZooKeeper, a distributed coordination service, and Apache Hadoop, a distributed computing platform. Both of these systems rely on a heartbeat to detect and respond to failures in a distributed environment.
+> *Good examples* of systems that use a heartbeat mechanism include Apache ZooKeeper, a distributed coordination service, and Apache Hadoop, a distributed computing platform. Both of these systems rely on a heartbeat to detect and respond to failures in a distributed environment.
 
 Implementing a heartbeat mechanism typically requires setting up a separate component or service that is responsible for sending and receiving heartbeat signals. This can be done using various tools and technologies, such as network protocols like TCP/IP or specialized libraries and frameworks like Apache Curator or Consul.
 
-In conclusion, implementing a heartbeat mechanism is an essential tool for detecting and responding to failures in a distributed system. Examples of systems that use a heartbeat mechanism include Apache ZooKeeper and Apache Hadoop. By leveraging heartbeat signals, developers can ensure that their distributed systems remain reliable and functional, even in the face of failures or unexpected events.
+*In conclusion*, implementing a heartbeat mechanism is an essential tool for detecting and responding to failures in a distributed system. Examples of systems that use a heartbeat mechanism include Apache ZooKeeper and Apache Hadoop. By leveraging heartbeat signals, developers can ensure that their distributed systems remain reliable and functional, even in the face of failures or unexpected events.
 
 ---
    
@@ -311,11 +311,11 @@ In conclusion, implementing a heartbeat mechanism is an essential tool for detec
 
 Ensuring data integrity is a critical requirement for many systems. One way to achieve this is by using a checksum algorithm, which is a mathematical function that generates a fixed-size digital fingerprint of a data set. This fingerprint can then be used to verify the integrity of the data by comparing it to the checksum generated from the same data set at a later point in time.
 
-A good example of a system that uses a checksum algorithm is the Git version control system. Git uses a cryptographic hash function to generate a checksum for every version of a file, which is used to detect any changes to the file. If any changes are made to the file, the checksum will no longer match, indicating that the file has been modified.
+> *A good example* of a system that uses a **checksum algorithm** is the Git version control system. Git uses a cryptographic hash function to generate a checksum for every version of a file, which is used to detect any changes to the file. If any changes are made to the file, the checksum will no longer match, indicating that the file has been modified.
 
-Another example of a system that uses a checksum algorithm is the ZFS file system, which uses checksums to ensure the integrity of data stored on disk. When data is written to disk, a checksum is calculated and stored along with the data. When the data is read back from disk, the checksum is calculated again and compared to the original checksum. If the checksums do not match, it indicates that the data has been corrupted and needs to be restored from a backup.
+> *Another example* of a system that uses a checksum algorithm is the ZFS file system, which uses checksums to ensure the integrity of data stored on disk. When data is written to disk, a checksum is calculated and stored along with the data. When the data is read back from disk, the checksum is calculated again and compared to the original checksum. If the checksums do not match, it indicates that the data has been corrupted and needs to be restored from a backup.
 
-In conclusion, checksum algorithms are an effective way to ensure data integrity. Examples of systems that use checksum algorithms include Git and the ZFS file system. By using checksums to detect data corruption, developers can ensure that their systems remain reliable and secure.
+*In conclusion*, checksum algorithms are an effective way to ensure data integrity. Examples of systems that use checksum algorithms include Git and the ZFS file system. By using checksums to detect data corruption, developers can ensure that their systems remain reliable and secure.
 
 ---
 
@@ -323,19 +323,19 @@ In conclusion, checksum algorithms are an effective way to ensure data integrity
 
 The Gossip Protocol is a distributed communication protocol that enables nodes in a network to exchange information with each other in a decentralized way. Each node shares information with a few randomly selected neighbors, who in turn share the information with their neighbors, creating a "gossip" effect that spreads the information throughout the network.
 
-The Gossip Protocol is well-suited for systems that require decentralized communication between multiple servers, such as distributed databases or blockchain networks. One example of a system that uses the Gossip Protocol is Apache Cassandra, a highly scalable NoSQL database. In Cassandra, nodes use the Gossip Protocol to exchange information about the state of the cluster, allowing the database to scale horizontally across multiple servers.
+The **Gossip Protoco**l is well-suited for systems that require decentralized communication between multiple servers, such as distributed databases or blockchain networks. One example of a system that uses the Gossip Protocol is Apache Cassandra, a highly scalable NoSQL database. In Cassandra, nodes use the Gossip Protocol to exchange information about the state of the cluster, allowing the database to scale horizontally across multiple servers.
 
-Another example of a system that uses the Gossip Protocol is the Ethereum blockchain. Ethereum uses a variant of the Gossip Protocol called Whisper to enable communication between nodes on the network. Whisper allows nodes to exchange messages in a decentralized way, ensuring that the network remains resilient and fault-tolerant.
+> *Another example* of a system that uses the Gossip Protocol is the Ethereum blockchain. Ethereum uses a variant of the Gossip Protocol called Whisper to enable communication between nodes on the network. Whisper allows nodes to exchange messages in a decentralized way, ensuring that the network remains resilient and fault-tolerant.
 
-In conclusion, the Gossip Protocol is a powerful tool for enabling decentralized communication between servers. Examples of systems that use the Gossip Protocol include Apache Cassandra and the Ethereum blockchain. By leveraging the Gossip Protocol, developers can create highly scalable and fault-tolerant systems that can operate in a decentralized and distributed environment.
+*In conclusion*, the Gossip Protocol is a powerful tool for enabling decentralized communication between servers. Examples of systems that use the Gossip Protocol include Apache Cassandra and the Ethereum blockchain. By leveraging the Gossip Protocol, developers can create highly scalable and fault-tolerant systems that can operate in a decentralized and distributed environment.
 
 ---
 
 ### Scale servers with add/removal of nodes efficiently, with no hotspots? we should implement *Consistent Hashing*
 
-Consistent Hashing is a technique used for distributing data among a large number of servers in a way that allows for efficient scaling and easy addition or removal of nodes. In Consistent Hashing, a hash function is used to map each data item to a position on a ring, and each server is also mapped to a position on the ring. When a new data item is added or a server is removed or added to the system, only a small portion of the data needs to be rehashed, allowing for fast and efficient scaling.
+**Consistent Hashing** is a technique used for distributing data among a large number of servers in a way that allows for efficient scaling and easy addition or removal of nodes. In Consistent Hashing, a hash function is used to map each data item to a position on a ring, and each server is also mapped to a position on the ring. When a new data item is added or a server is removed or added to the system, only a small portion of the data needs to be rehashed, allowing for fast and efficient scaling.
 
-One example of a system that uses Consistent Hashing is the Apache Cassandra NoSQL database. Cassandra uses Consistent Hashing to distribute data across a cluster of servers, allowing for easy scaling and fault-tolerance. Another example of a system that uses Consistent Hashing is the Amazon DynamoDB database, which also uses Consistent Hashing to distribute data across a large number of servers.
+> *One example* of a system that uses Consistent Hashing is the Apache Cassandra NoSQL database. Cassandra uses Consistent Hashing to distribute data across a cluster of servers, allowing for easy scaling and fault-tolerance. Another example of a system that uses Consistent Hashing is the Amazon DynamoDB database, which also uses Consistent Hashing to distribute data across a large number of servers.
 
 Consistent Hashing is a powerful tool for creating scalable and fault-tolerant systems. By leveraging the properties of hash functions and a ring topology, Consistent Hashing allows for efficient distribution of data and nodes, with no hotspots or bottlenecks. This makes it an ideal choice for systems that need to scale with the addition or removal of nodes, such as distributed databases or web applications with high traffic.
 
@@ -347,9 +347,9 @@ When dealing with geographic data, such as maps, locations, or nearby resources,
 
 A Quadtree is a tree-like data structure in which each node has exactly four children, dividing a two-dimensional space into four equal parts. It is commonly used in applications such as maps, image processing, and video games. The Quadtree can be used to index points, polygons, and lines based on their geographic location, and it enables fast location-based queries such as finding all nearby resources or points within a certain radius.
 
-Geohash is a hierarchical spatial data structure that encodes a geographic location into a short string of letters and digits. The shorter the string, the higher the accuracy. It is used to represent a location as a single value, enabling easy storage, retrieval, and indexing of geographic data. Geohash can be used to search for resources or points within a certain geographic area, and it is commonly used in location-based services, such as ride-sharing apps and social media.
+**Geohash** is a hierarchical spatial data structure that encodes a geographic location into a short string of letters and digits. The shorter the string, the higher the accuracy. It is used to represent a location as a single value, enabling easy storage, retrieval, and indexing of geographic data. Geohash can be used to search for resources or points within a certain geographic area, and it is commonly used in location-based services, such as ride-sharing apps and social media.
 
-For example, if we are building a food delivery app that needs to provide users with nearby restaurants, we could use a Quadtree to index the locations of all restaurants and enable fast location-based queries. Similarly, we could use Geohash to encode the locations of all restaurants and enable fast searches within a certain radius.
+> *For example*, if we are building a food delivery app that needs to provide users with nearby restaurants, we could use a Quadtree to index the locations of all restaurants and enable fast location-based queries. Similarly, we could use Geohash to encode the locations of all restaurants and enable fast searches within a certain radius.
 
 ---
 
@@ -357,15 +357,20 @@ For example, if we are building a food delivery app that needs to provide users 
 
 In a microservices architecture, each service is responsible for a specific functionality, and multiple services work together to deliver the desired result. As the number of microservices grows, it becomes increasingly challenging to manage, maintain, and secure them. This is where an API Gateway comes into the picture.
 
-An API Gateway is a service that provides a single entry point to access multiple microservices. It acts as a reverse proxy, intercepting and forwarding client requests to the appropriate microservices. API Gateways provide various features, including authentication, SSL termination, load balancing, routing, and caching.
+An **API Gateway** is a service that provides a single entry point to access multiple microservices. It acts as a reverse proxy, intercepting and forwarding client requests to the appropriate microservices. API Gateways provide various features, including authentication, SSL termination, load balancing, routing, and caching.
 
 Using an API Gateway offers several benefits. Firstly, it provides a simplified way for clients to access multiple microservices. Secondly, it provides a centralized location for handling common concerns, such as authentication and SSL termination, which reduces the complexity of individual services. Additionally, an API Gateway can handle cross-cutting concerns such as rate limiting, caching, and routing, which simplifies the development and deployment of microservices.
 
-One of the popular examples of an API Gateway is Netflix's Zuul. Zuul provides various features, including load balancing, rate limiting, and routing, among others. Another example is Kong, which is an open-source API Gateway that provides various features, including authentication, caching, and logging, among others. In summary, an API Gateway provides an effective way to manage microservices and handle cross-cutting concerns efficiently.
+> *One of the popular examples* of an API Gateway is Netflix's Zuul. Zuul provides various features, including load balancing, rate limiting, and routing, among others. Another example is Kong, which is an open-source API Gateway that provides various features, including authentication, caching, and logging, among others. In summary, an API Gateway provides an effective way to manage microservices and handle cross-cutting concerns efficiently.
 
 ---
 
+### Conclusion
 
+In this blog post, we have learned 25 golden rules of software system design that can help us create better, faster, and more reliable systems. These rules cover various aspects of design, such as requirements, architecture, modularity, scalability, security, testing, documentation, and maintenance. By following these rules, we can avoid common pitfalls and ensure that our systems meet the needs of our users and stakeholders.
 
+I hope you enjoyed reading this blog post and found it helpful for your own projects. Thank you for reading!
+
+---
 
 
