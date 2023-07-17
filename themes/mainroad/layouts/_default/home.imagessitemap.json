@@ -1,0 +1,14 @@
+[
+  {{ range $index, $page := .Site.RegularPages }}
+    {{ if lt $index 6 }}
+    {
+      "location": "{{ $page.Permalink }}",
+      "img": "{{ $page.Params.thumbnail }}",
+      "title": "{{ $page.Params.title }}",
+      "date": "{{ $page.Params.date }}",
+      "summary": "{{ replaceRE `\n` "" $page.Summary }}"
+    }
+    {{if ne $index 5}},{{end}}
+    {{ end }}
+  {{ end }}
+]

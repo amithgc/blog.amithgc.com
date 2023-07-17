@@ -73,3 +73,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     [markup.goldmark.renderer]
       unsafe = true
 
+[outputFormats.imagessitemap]
+  baseName  = 'imagessitemap'
+  mediaType = 'application/json'
+  noUgly = true # default is false
+
+[outputs]
+  page = [ "html"]
+  home = [ "html", "rss", "imagessitemap"]
