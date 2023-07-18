@@ -21,6 +21,15 @@
             "value": "https://amithgc.com"
           }
         ]
+      },
+      {
+        "source": "/imagessitemap.json",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "https://amith.co.in"
+          }
+        ]
       }
     ]
   }
