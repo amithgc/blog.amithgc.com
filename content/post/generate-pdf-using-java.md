@@ -1,7 +1,7 @@
 ---
-title: "How to Generate PDF's using Java"
+title: "How to Generate PDF using Java"
 date: 2023-07-21T12:17:12+05:30
-description: How to Generate PDF's using Java
+description: How to Generate PDF using Java
 authorbox: true
 sidebar: false
 thumbnail: "img/pg.png"
