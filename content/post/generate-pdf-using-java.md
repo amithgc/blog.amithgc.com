@@ -21,6 +21,9 @@ Ah, the age-old problem of mundane tasks sucking up our precious time! Picture t
 
 Thus, in a stroke of brilliance (or perhaps desperation), the PDF Bill Generator was born! This open-source project was conceived with the sole purpose of rescuing busy souls from the clutches of repetitive billing tasks.
 
+Here is the **GitHub Repo**, Please free to Use the Code
+<a href="https://github.com/amithgc/BillGenerator" target="_blank">[ View GitHub Repo ]</a>
+
 ## Overview
 
 The Bill Generator is a powerful Java-based tool that allows you to effortlessly generate bills using a **base PDF file** as a template and a **JSON data file** to define the text placement. Whether you're running a small business, managing finances for a project, or just need to create customized bills, this tool has got you covered!
