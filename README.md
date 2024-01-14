@@ -12,7 +12,6 @@ But this blog isn't just about learning and staying up-to-date. It's also about 
 
 So join me as we explore the exciting world of coding, development, devops, and Linux. Together, we'll learn new skills, discover new technologies, and have a blast doing it!
 
-![](https://visitor-badge.glitch.me/badge?page_id=blog.amithgc.com&left_color=green&right_color=red)
 ![](https://img.shields.io/github/issues-raw/amithgc/blog.amithgc.com?label=Total%20Comments)
 ![](https://img.shields.io/github/last-commit/amithgc/blog.amithgc.com?label=Last%20Blog%20Post)
 ![](https://img.shields.io/github/repo-size/amithgc/blog.amithgc.com)
