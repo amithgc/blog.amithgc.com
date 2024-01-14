@@ -67,10 +67,10 @@ npm install -g didu
     didu ls all              Lists all tasks, Changes the status once selected
     didu ls done             Lists all completed tasks, Changes the status once selected
     didu ls pending          Lists all pending tasks, Changes the status once selected
-    didu pretty              Displays all tasks
-    didu pretty all          Displays all tasks
-    didu pretty done         Displays all done tasks
-    didu pretty pending      Displays all pending tasks
+    didu v                   Displays all tasks
+    didu v all               Displays all tasks
+    didu v done              Displays all done tasks
+    didu v pending           Displays all pending tasks
     didu rm                  Lists all tasks for removal
     didu rm all              Lists all tasks for removal
     didu rm done             Lists all completed tasks for removal
